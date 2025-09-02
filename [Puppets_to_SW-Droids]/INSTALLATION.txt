@@ -1,0 +1,16 @@
+Disclaimer
+I am not liable for any damages, claims, defects, copyright claims, or the like. I provide this content solely for my own use and not for commercial purposes.
+---------------------------------------------------------------------------------------------
+Locate Path
+SteamLibrary\steamapps\common\SCUM\SCUM\Content\Paks
+
+Replace following with mine.
+pakchunk0_s12-WindowsNoEditor.pak
+pakchunk0_s12-WindowsNoEditor.sig
+pakchunk0_s15-WindowsNoEditor.pak
+pakchunk0_s15-WindowsNoEditor.sig
+
+Requirement
+Local: Windows
+Server: Windows [GAMESERVER DONT WORK!]
+
